@@ -1,7 +1,11 @@
+.nav {
+ display: flex;
+ justify-content: flex-end;
 
+}
 .navbar-color {
   background-color: grey;
-  
+  justify-content: flex-end;
 }
 body {
   margin-bottom: 150px;
